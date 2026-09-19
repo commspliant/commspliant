@@ -28,13 +28,14 @@ Official CommsPliant API SDKs for multiple programming languages.
 
 Our goal is to make integrating CommsPliant straightforward, regardless of the technology stack you're using.
 
-| SDK | Status |
-|---|---|
-| 🐹 Go | 🚧 Coming soon |
-| 🐘 PHP | 🚧 Coming soon |
-| 🟦 TypeScript / JavaScript | 🚧 Coming soon |
-| 🐍 Python | 🚧 Coming soon |
-| 💻 Other languages | 🔜 Planned |
+| SDK | Repository |
+|-----|------------|
+| Go | [go-sdk](https://github.com/commspliant/go-sdk) |
+| Java | [java-sdk](https://github.com/commspliant/java-sdk) |
+| Node.js / TypeScript | [node-sdk](https://github.com/commspliant/node-sdk) |
+| PHP | [php-sdk](https://github.com/commspliant/php-sdk) |
+| Python | [python-sdk](https://github.com/commspliant/python-sdk) |
+| Other languages | Planned |
 
 ---
 
